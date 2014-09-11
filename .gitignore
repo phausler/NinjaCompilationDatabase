@@ -1,0 +1,5 @@
+.DS_Store
+.ninja_log
+*.mode1v3
+*.pbxuser
+xcuserdata
